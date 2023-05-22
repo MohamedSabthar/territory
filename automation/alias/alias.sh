@@ -1,0 +1,1 @@
+alias cpt='gw :graphql-compiler-plugin-tests:test -x :graphql-ballerina:test -x :graphql-ballerina:build -x check  --debug-jvm --rerun-tasks'

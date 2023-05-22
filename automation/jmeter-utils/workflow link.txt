@@ -1,0 +1,3 @@
+https://github.com/ballerina-platform/ballerina-performance-cloud/blob/b2d543a82b5705dc67d017a1a5362ea08922057c/base-image/execute-tests.sh#L119
+jtl-splitter.sh -- -f original.jtl -t 120 -u SECONDS -s
+JMeterPluginsCMD.sh --generate-csv temp_summary.csv --input-jtl original-measurement.jtl --plugin-type AggregateReport
