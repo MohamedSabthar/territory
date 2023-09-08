@@ -1,0 +1,2 @@
+stage - https://staging-central.ballerina.io
+dev - https://dev-central.ballerina.io

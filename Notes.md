@@ -14,4 +14,4 @@ Updating the RC/Release dependencies
   - bump minor version of the module
   - update the distribution version in Ballerina.toml
 
-- if there is a dependency with a bump bump the minor version of the module
+- if there is a dependency with a bump; bump the minor version of the module
