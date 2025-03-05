@@ -1,7 +1,7 @@
 Use the packages from stage central
 - BALLERINA_STAGE_CENTRAL=true bal build
 
-Enabling verbose
+Enabling verbose on central pull or push
 - export CENTRAL_VERBOSE_ENABLED=true 
 
 Debug with bal java
